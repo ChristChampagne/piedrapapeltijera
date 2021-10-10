@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/ChristChampagne/piedrapapeltijera/static/js/main.2f6f9ab4.chunk.js",
+    "main.js.map": "/ChristChampagne/piedrapapeltijera/static/js/main.2f6f9ab4.chunk.js.map",
+    "runtime-main.js": "/ChristChampagne/piedrapapeltijera/static/js/runtime-main.add266e9.js",
+    "runtime-main.js.map": "/ChristChampagne/piedrapapeltijera/static/js/runtime-main.add266e9.js.map",
+    "static/css/2.40abe5ac.chunk.css": "/ChristChampagne/piedrapapeltijera/static/css/2.40abe5ac.chunk.css",
+    "static/js/2.00d36f05.chunk.js": "/ChristChampagne/piedrapapeltijera/static/js/2.00d36f05.chunk.js",
+    "static/js/2.00d36f05.chunk.js.map": "/ChristChampagne/piedrapapeltijera/static/js/2.00d36f05.chunk.js.map",
+    "index.html": "/ChristChampagne/piedrapapeltijera/index.html",
+    "static/css/2.40abe5ac.chunk.css.map": "/ChristChampagne/piedrapapeltijera/static/css/2.40abe5ac.chunk.css.map",
+    "static/js/2.00d36f05.chunk.js.LICENSE.txt": "/ChristChampagne/piedrapapeltijera/static/js/2.00d36f05.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.add266e9.js",
+    "static/css/2.40abe5ac.chunk.css",
+    "static/js/2.00d36f05.chunk.js",
+    "static/js/main.2f6f9ab4.chunk.js"
+  ]
+}
