@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Piedra Papel o Tijera",
+  "name": "Simple juego creado con react",
   "icons": [
     {
       "src": "favicon.ico",
