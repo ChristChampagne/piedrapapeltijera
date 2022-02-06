@@ -1,4 +1,4 @@
-# Piedra Papel O Tijera En React
+# Piedra Papel O Tijera En React JS
 
 _Sencillo juego de Piedra Papel o Tijera creado en react. Live Demo: https://christchampagne.github.io/piedrapapeltijera/_
 
