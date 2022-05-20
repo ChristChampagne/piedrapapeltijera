@@ -25,6 +25,3 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 1.0.0
 
 
-
----
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
